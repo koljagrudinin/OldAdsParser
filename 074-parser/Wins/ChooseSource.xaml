@@ -1,0 +1,10 @@
+﻿<Window x:Class="_074_Parser.Wins.ChooseSource"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Выбрать источник" Height="300" Width="300" ShowInTaskbar="False" ResizeMode="NoResize" >
+    <Grid>
+        <StackPanel>
+            <RadioButton x:Name="rbtnYellow" Content="Желтые страницы" Margin="5" Click="rbtnYellow_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

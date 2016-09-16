@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_074_Parser.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PathToNet" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">patterns\Net.net</Value>
+    </Setting>
+    <Setting Name="pathToPatterns" Type="System.String" Scope="User">
+      <Value Profile="(Default)">patterns\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
